@@ -1,0 +1,3 @@
+reading the file or document line by line
+present the file in a readable format
+the line is short and readable
